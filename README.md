@@ -93,3 +93,21 @@ Username_scelto
 null
 LocalDateTime.now()
 password_scelta
+
+### 🔍 **Ricerca di un destinatario sconosciuto**###
+
+Username_scelto
+0 0 0 1
+destinatario_scelto
+LocalDateTime.now()
+null
+
+### 📤 **Invio di un messaggio**###
+
+Username_scelto
+0 0 0 1
+destinatario_scelto
+LocalDateTime.now()
+messaggio
+
+
