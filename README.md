@@ -98,7 +98,7 @@ LocalDateTime.now()
 password_scelta
 ```
 
-### 🔍 **Ricerca di un destinatario sconosciuto**###
+### 🔍 **Ricerca di un destinatario sconosciuto**
 
 ```plaintext
 Username_scelto
@@ -108,7 +108,7 @@ LocalDateTime.now()
 null
 ```
 
-### 📤 **Invio di un messaggio**###
+### 📤 **Invio di un messaggio**
 
 ```plaintext
 Username_scelto
