@@ -13,7 +13,7 @@ L'obiettivo del progetto è lo sviluppo di una chat multi-utente con funzionalit
 ---
 
 ## ⚙️ **Avvio dell’Applicazione**
-Per avviare correttamente il programma sarà necessario avviare prima il server, dopodichè avviare singolarmente ogni client interessato nella comunicazione
+Per avviare correttamente il programma sarà necessario avviare prima la classe Server, dopodichè avviare singolarmente classe Client interessato nella comunicazione
 
 ## ⚙️ **Funzionamento dell’Applicazione**
 
